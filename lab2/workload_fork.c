@@ -1,7 +1,8 @@
 # include <stdio.h>
 # include <stdlib.h>
+# include <sys/wait.h>
 # include <time.h>
-#include <math.h>
+# include <math.h>
 
 # define VECTOR_SIZE 200000000
 # define NUM_PROCESSES 4
